@@ -44,7 +44,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 接收指令：APP設定
 
 ### 系統方塊圖
-![](https://github.com/Jacques3131/MCU-project/blob/8e21063f121b96a1e9e2a20c0791d05448412fbb/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-03-05%20141716.png)
+![](https://github.com/Jacques3131/MCU-project/blob/images/666.png?raw=true))
 ---
 ## Design Methodology (設計方法)
 * Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
