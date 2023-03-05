@@ -44,8 +44,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 接收指令：APP設定
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
-
+![](images/螢幕擷取畫面 2023-03-05 141716.png)
 ---
 ## Design Methodology (設計方法)
 * Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
