@@ -3,20 +3,20 @@ layout: post
 title: Future Home Applications
 author: [Jacques Wang]
 category: [Lecture]
-tags: [jekyll, ai]
+tags: [NTOUEE]
 ---
 
 This homework is to propose an innovative project and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
-## Futre Home Applications
+## 自適應眼鏡
 
-### Nextflix movie: Big Bug
-<iframe width="993" height="559" src="https://www.youtube.com/embed/FWUkh23vBhs" title="BIGBUG Trailer (2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### 眼科醫生演示近視遠視散光
+<iframe width="885" height="498" src="https://www.youtube.com/embed/frFwuF1fbM0" title="【你有視力問題嗎?】眼科醫生演示近視遠視散光" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Service Robots:**<br>
 
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_robots.png?raw=true)
+![](https://media.gettyimages.com/vectors/various-black-silhouette-glasses-eyeglasses-frames-set-sunglasses-vector-id1003883462)
 
 ---
 **Home Spaces:**<br>
