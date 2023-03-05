@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future Home Applications
+title: 自適應眼鏡技術
 author: [Jacques Wang]
 category: [Lecture]
 tags: [NTOUEE]
@@ -14,49 +14,38 @@ This homework is to propose an innovative project and describe the key features,
 ### 眼科醫生演示近視遠視散光
 <iframe width="885" height="498" src="https://www.youtube.com/embed/frFwuF1fbM0" title="【你有視力問題嗎?】眼科醫生演示近視遠視散光" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Service Robots:**<br>
+**各種眼鏡(近視、散光、遠視、老花):**<br>
 
 ![](https://media.gettyimages.com/vectors/various-black-silhouette-glasses-eyeglasses-frames-set-sunglasses-vector-id1003883462)
 
 ---
-**Home Spaces:**<br>
+**近視比例:**<br>
+![](https://www.taiwanpb.org/uploadfile/C01/images/%E6%9C%AA%E5%91%BD%E5%90%8D-1-2(1).jpg)
 
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_spaces.png?raw=true)
 
 ---
 ### Homework Report
 **Contents:**<br>
-* **應用與功能說明**
-  - Specify the future home application, and Describe the key features
-  - Describe the key features which may be applied to the home space (kitchen, living room, play room, study room, bed room)
-* **設計考量與所需相關技術**
-  - List all design considerations and the required technologies
-* **系統方塊圖**
-  - Draw a System Block Diagram
 
----
-
-## 料理機器人
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 判斷度數
+2. 調整度數(定時、可關閉)
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
-3. 供電方式:鋰電池
+1. 操作方式:可塑性透明鏡片及半流體填充
+2. 動力方式:微型馬達
+3. 供電方式:鋰電池及太陽能板
 4. 聯網方式:WiFi或BT to 手機
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 調整度數:軟式高透光鏡片、高透半流體
+2. 度數判斷:超音波、光學判斷
+3. 接收指令：APP設定
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
-<iframe width="1239" height="697" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Rick Astley - Never Gonna Give You Up (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 ## Design Methodology (設計方法)
 * Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
@@ -64,11 +53,11 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## Market Analysis (市場分析)
-![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
+![](https://www.modernmgz.com/wan2/upload/images/20180710154032.jpg)
 
 ---
 ### TAM of Future Home Products
-The Target Market size (TAM) of Future Home Products is the number of household.<br>
+目標客群為近視、遠視、散光、老花等人群(主要為近視).<br>
 
 ---
 ### Taiwan Households = 8.93M (台灣 9百萬戶）
