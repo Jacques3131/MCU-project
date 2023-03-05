@@ -60,8 +60,8 @@ This homework is to propose an innovative project and describe the key features,
 目標客群為近視、遠視、散光、老花等人群(主要為近視).<br>
 
 ---
-### Taiwan Households = 8.93M (台灣 9百萬戶）
-* [Total number of households in Taiwan from 2010 to 2020(in 1,000s)](https://www.statista.com/statistics/330804/taiwan-national-total-number-of-households/#:~:text=By%20the%20end%20of%202020,households%20in%20the%20previous%20year.)
+### 台灣近視人數 = 8.93M (台灣 9百萬戶）
+* [Total number of households in Taiwan from 2010 to 2020(in 1,000s)]([https://www.statista.com/statistics/330804/taiwan-national-total-number-of-households/#:~:text=By%20the%20end%20of%202020,households%20in%20the%20previous%20year.](https://tw.news.yahoo.com/news/%E7%8D%A8%E5%AE%B6-%E8%BF%91%E8%A6%96%E5%B9%B4%E9%BD%A1%E4%B8%8B%E9%99%8D-%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%85%AD%E7%94%9F-%E6%88%B4%E7%9C%BC%E9%8F%A1-%E6%AF%94%E4%BE%8B%E9%80%BE6%E6%88%90-133014573.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAbfGvmo8VMKW_40v9PW5QcH4Hax_h4zlq-zjJ2QpWZvj7LKGx6qBS-sOFxqemRWFgO7j13fNsH7F5wxejGQW2M1pWtbrLnKAPmLcb_o1RsqJAXtHRxNp19olUtEuz2YVEUVtd7uNBPRdcuNSWRs4jS6lO_jB8pmLN3eEepZ9ioY))
 
 ### Japan Households = 57.2M (日本 5千7百萬戶)
 * [Number of Households in Japan](https://www.helgilibrary.com/indicators/number-of-households/japan/) 
