@@ -3,10 +3,10 @@ layout: post
 title: 藍牙遙控車
 author: [Jacques Wang]
 category: [Lecture]
-tags: [jekyll, ai]
+tags: [None]
 ---
 
-Introduction to ESP32 chips/boards, Arduino IDE/Toolchains, and ESP32 projects.
+用微控制器製作之藍牙遙控車與演示
 
 ---
 ## Introduction to ESP32 SOCs
