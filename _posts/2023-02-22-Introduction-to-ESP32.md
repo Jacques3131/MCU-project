@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introduction to ESP32
-author: [Richard Kuo]
+title: 藍牙遙控車
+author: [Jacques Wang]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
