@@ -25,7 +25,6 @@ a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, based on the open-
 ## ESP32-WROOM-32
 [Insight Into ESP32 Features & Using It With Arduino IDE](https://lastminuteengineers.com/esp32-arduino-ide-tutorial/)<br>
 
-![](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/ESP32-Hardware-Specifications-Reset-Boot-Buttons-LED-Indicators.jpg)
 
 **Features:**<br>
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/ESP32_development_board_features.png?raw=true)
