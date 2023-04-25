@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 藍牙遙控車
+title: 智慧型裝置無線遙控車
 author: [Jacques Wang]
 category: [Lecture]
 tags: [None]
 ---
 
-用微控制器製作之藍牙遙控車與演示
+用微控制器(ESP32)製作之遙控車與演示
 
 ---
 ## Introduction to ESP32 SOCs
@@ -29,7 +29,13 @@ a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, based on the open-
 ## ESP32-WROOM-32
 [Insight Into ESP32 Features & Using It With Arduino IDE](https://lastminuteengineers.com/esp32-arduino-ide-tutorial/)<br>
 
-
+---
+## 功能
+1.前進
+2.後退
+3.左轉
+4.右轉
+5.wifi connecttion
 
 
 ---
