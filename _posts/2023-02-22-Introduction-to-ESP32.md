@@ -33,7 +33,7 @@ a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, based on the open-
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/NodeMCU-32S_pinout.jpg?raw=true)
 
 ---
-### Code
+## Code
 // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz
 // ESP32 Webserver to receive commands to control RoboCar
 
