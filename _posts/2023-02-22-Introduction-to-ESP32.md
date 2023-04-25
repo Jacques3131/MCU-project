@@ -26,8 +26,7 @@ a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, based on the open-
 [Insight Into ESP32 Features & Using It With Arduino IDE](https://lastminuteengineers.com/esp32-arduino-ide-tutorial/)<br>
 
 
-**Features:**<br>
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/ESP32_development_board_features.png?raw=true)
+
 
 ---
 ### NodeMCU-32S pinout
