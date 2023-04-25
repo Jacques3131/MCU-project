@@ -33,23 +33,3 @@ a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, based on the open-
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/NodeMCU-32S_pinout.jpg?raw=true)
 
 ---
-### ESP32-WROOM-32 pinout
-![](https://www.mischianti.org/wp-content/uploads/2021/02/ESP32-wroom-32-pinout-mischianti-1024x551.jpg)
-
----
-### ESP32 CAM pinout
-![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/03/ESP32-CAM-getting-started.jpg?resize=1024%2C576&quality=100&strip=all&ssl=1)
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/ESP32-CAM_pinout.jpg?raw=true)
-**ESP32-CAM upload code**<br>
-![](https://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/12/ESP32-CAM-FTDI-programmer-5V-supply.png?w=750&quality=100&strip=all&ssl=1)
-[ESP-WHO (face detection and recognition)](https://github.com/espressif/esp-who)<br>
-[ESP32-CAM video streaming face recognition](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/)<br>
-[ESP32-CAM video streaming Web server](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/)<br>
-**Code:** [ESP32-CAM Web server](https://github.com/rkuo2000/arduino/tree/master/examples/ESP32CAM_CamWebServer)<br>
-
----
-
-
----
-
-
