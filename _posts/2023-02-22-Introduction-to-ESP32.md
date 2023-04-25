@@ -10,7 +10,7 @@ tags: [None]
 
 ---
 ## Introduction to ESP32 SOCs
-**[ESP32](https://www.espressif.com/en/products/socs/esp32)**<br>
+**[ESP32]((https://github.com/Jacques3131/MCU-project/blob/main/images/342519029_959060991770867_2036321848111739409_n.jpg?raw=true))**<br>
 a dual-core XTensa LX6 MCU, capable of running at 240 MHz with 520 KB of internal SRAM, ntegrated 2.4 GHz, 802.11 b/g/n Wi-Fi and Bluetooth 4.2 (LE) connectivity <br>
 **[ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3)**<br>
 a dual-core XTensa LX7 MCU, capable of running at 240 MHz. Apart from its 512 KB of internal SRAM, it also comes with integrated 2.4 GHz, 802.11 b/g/n Wi-Fi and Bluetooth 5 (LE) connectivity that provides long-range support.<br>
@@ -18,7 +18,7 @@ a dual-core XTensa LX7 MCU, capable of running at 240 MHz. Apart from its 512 KB
 a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, based on the open-source **RISC-V** architecture.<br>
 
 ---
-### ESP32 Interfaces and Peripherals
+### 遙控車系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/ESP32_interface_peripherals.png?raw=true)
 
 ---
