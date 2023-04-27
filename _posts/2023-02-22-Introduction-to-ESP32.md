@@ -23,7 +23,7 @@ a single-core Wi-Fi and Bluetooth 5 (LE) microcontroller SoC, based on the open-
 ---
 
 ## 遙控車系統方塊圖
-![](https://github.com/Jacques3131/MCU-project/blob/main/images/342519029_959060991770867_2036321848111739409_n.jpg)
+![](https://github.com/Jacques3131/MCU-project/blob/main/images/0427.png?raw=true)
 
 ---
 ## ESP32-WROOM-32
