@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Future Home Applications
-author: [Richard Kuo]
+title: arduino iot
+author: [Jacques Wang]
 category: [Lecture]
-tags: [jekyll, ai]
+tags: [none]
 ---
 
-This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
+利用DHT11 感測溫濕度
 
 ---
 ## Futre Home Applications
